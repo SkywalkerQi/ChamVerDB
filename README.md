@@ -1,1 +1,1 @@
-# The source code of ChamVerDB will come soon.
+# This repository contains c++ implementations of ChamVerDB, APIR (DDH-based), VUSDB, and PPVDB with code based on the Pairing-Based Cryptography (PBC: https://crypto.stanford.edu/pbc) library.The proposed scheme is evaluated on a simulated dataset (using the KVWrite() function) and a real dataset (MS-MARCO-Web-Search: (https://github.com/microsoft/MS-MARCO-Web-Search).
